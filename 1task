@@ -1,0 +1,6 @@
+const num = 124
+const bin = num.toString(2)
+
+num.toString(20)
+console.log(Number.parseInt(bin, 10))
+
